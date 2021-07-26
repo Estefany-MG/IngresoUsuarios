@@ -4,14 +4,15 @@ El siguiente proyecto muestra una ventana de Ingreso de Usuarios enlazada a una 
 
 
 Tabla de base de datos utilizada, que lleva el nombre de codeunam:
-![image](https://user-images.githubusercontent.com/85648437/127072127-e1d3fc8e-0bcf-431c-8f11-90e03587f62a.png)
+![image](https://user-images.githubusercontent.com/85648437/127072237-fa35b146-946a-464d-9bd5-9a240e05b33f.png)
+
 
 Se considera la clase Conexion
-Esta clase nos permite conectar nuestro código a una base de datos; en el ejemplo usamos la base de datos que lleva de nombre codeunam; esta base de datos cuenta con una tabla con los siguientes parámetros:
+Esta clase nos permite conectar nuestro código a una base de datos; en el ejemplo usamos la base de datos que lleva de nombre codeunam; esta base de datos cuenta con una tabla de nombre persona con los siguientes parámetros:
 Codigo: int(10) 
 Nombre: varchar(30) 
 Edad: int(3)
 Profesion: varchar(30) 
 Telefono: decimal(10,0)
+![image](https://user-images.githubusercontent.com/85648437/127072127-e1d3fc8e-0bcf-431c-8f11-90e03587f62a.png)
 
-![image](https://user-images.githubusercontent.com/85648437/127072237-fa35b146-946a-464d-9bd5-9a240e05b33f.png)
